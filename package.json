@@ -1,0 +1,12 @@
+{
+  "name": "@sirtenzin/cto",
+  "version": "1.0.0",
+  "description": "Cracked.to forum auth ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SirTenzin/JeffreyPFC21",
+  "license": "ISC"
+}
